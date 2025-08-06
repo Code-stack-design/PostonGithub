@@ -63,6 +63,31 @@ Resubmission is allowed in case you want to improve or correct your previous wor
 A Leaderboard is maintained and accessible to all participants  
 Refer to YouTube videos, articles, and other online resources to help you complete your tasks
 
+## What I Learned
+
+ How to build small Python projects  
+ Keyboard shortcuts in Google Docs and VS Code  
+ Basics of GitHub, uploading code & README  
+ Learned by doing: debugging, writing README files, and more!
+
+## Highlights
+
+  Connected with students from **9 different colleges**
+  Grew more confident in my **tech skills**
+  Realized that trying is more important than being perfect
+
+## Final Thoughts
+
+"Beginner’s League taught me that tech isn’t just for experts — it’s for the curious."
+
+It’s not about winning.  
+It’s about:
+  **Learning new skills**
+  **Building confidence**
+  **Trying something new**
+  And **having fun doing it!**
+
+[Here is my github account repo links](
 
 
 
