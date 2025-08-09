@@ -1,96 +1,35 @@
-Beginner’s League is a fun, one-week online competition made for students who are new to tech.
-You don’t need to be a coding expert. You don’t even need to know everything. All you need is the curiosity to learn and the courage to try.
-Over 7 days, you’ll:
-🧩 Solve small, simple challenges (like writing a basic program or trying out a design)
-🎓 Join workshops every day to learn something new
-⚡ Build cool mini-projects (called Power-Up Challenges) that show what you’ve learned.
-🥚 Hunt for surprise bonus tasks (called Easter Eggs) during workshops.
+My Beginner’s League Journey
 
-You get points for every challenge you complete.
-At the end of the week, the students with the most points win exciting prizes!
-But it’s not just about winning — it’s about:
-Learning new skills
-Building your confidence
-Meeting awesome people from 9 different colleges
-And discovering what you’re capable of# Beginner's League Submission
+Beginner’s League is a fun one-week online competition, and I had the opportunity to attend all the sessions. Each day brought something new to learn, and the classes were both interesting and inspiring.
+On the first day, Aamina handled the introduction, explaining how the schedule would go, what challenges we would face, and how the winners would be selected. Her session gave us a clear idea of what to expect throughout the week.
 
-Welcome to the Beginner's League!  
-This repository contains all the submissions for the Beginner's League challenges, including normal tasks, power-up challenges, workshop tasks, and in-session attendance-based submissions.
 
-## Challenge Breakdown & Points
 
-| Type of Task          | Description                            | Points |
-|-----------------------|----------------------------------------|--------|
-| Normal Challenges     | General tasks completed                | 10     |
-| Power Up Challenges   | 6 high-impact challenges               | 20–30  |
-| Workshop Tasks        | Tasks completed during workshop        | 10     |
-| In-session Task       | Points for attending the session       | 20     |
 
-## Submission Guidelines
 
-To complete your submission, ensure the following:
 
-1. Normal Challenges:  
-   - Submit your task outputs (code&screenshots)  
-   - Demo video is not compulsory
 
-2. Power Up Challenges:  
-   - Submit your outputs (code&screenshots)  
-   - Upload a README.md file explaining your work  
-   - Include a demo video showing how your solution works
 
-3. Workshop Tasks and In-session Tasks:  
-   - Submit the required deliverables or attendance proof (if applicable)
 
-## Uploading Your Work
 
-- Upload all files to a GitHub repository  
-- Make sure the GitHub link is public  
-- Double-check that all output screenshots, README files,and demo videos (for power-up tasks) are uploaded
 
-## Deadline
 
-Last date for uploading your submissions: 10th (of this month)  
-Don't miss the deadline
 
-## Submission Platform
-
-Submit your GitHub repository link on the Beginner's League Dashboard  
-Resubmission is allowed in case you want to improve or correct your previous work
-
-## Leaderboard & References
-
-A Leaderboard is maintained and accessible to all participants  
-Refer to YouTube videos, articles, and other online resources to help you complete your tasks
+Beginner's League is a fun one week online competition. I have attended all the classes. The classes are really interesting to listen to. The first day Aamina took the introduction part which was really good. We came to know about what all things and how the schedule will be going. She talked about the challenges and how you will be selected as the winner. Then second day was about product design by Enric S Neelamkavil. He talked about UI/UX design and product designing. The third day , the class was taken by Aswin Asok on Frontend. Eventhough I wasn't able to understand everything. I got clarifications on certain things he said which I thought was true. Then the class was taken by Afnan K Salal about backend and yesterday it was Machine Learning by Pranav Krishna.He basically tried to explain what is machine learning. He did not get into the code part instead made us understand the basics of machine learning. How it is done and data plays the important role in it. Only if u have the correct sufficient data will you be able to do projects properly.
 
 ## What I Learned
 
  How to build small Python projects  
  Keyboard shortcuts in Google Docs and VS Code  
  Basics of GitHub, uploading code & README  
- Learned by doing: debugging, writing README files, and more!
+ Learned by doing: debugging, writing README files.
+ To build games and improve efficiency.
 
-## Highlights
 
-  Connected with students from **9 different colleges**
-  Grew more confident in my **tech skills**
-  Realized that trying is more important than being perfect
 
-## Final Thoughts
-
-"Beginner’s League taught me that tech isn’t just for experts — it’s for the curious."
-
-It’s not about winning.  
-It’s about:
-  **Learning new skills**
-  **Building confidence**
-  **Trying something new**
-  And **having fun doing it!**
-
-[Here is my github account repo links](https://github.com/Code-stack-design/TicTacToe.git)
-[Here is my github account repo links](https://github.com/Code-stack-design/Portfolio.git)
-[Here is my github account repo links](https://github.com/Code-stack-design/Netflix-Clone.git)
-[Here is my github account repo links](https://github.com/Code-stack-design/PostonGithub.git)
+[Here is my github account repo links for the game Tic Tac Toe](https://github.com/Code-stack-design/TicTacToe.git)
+[Here is my github account repo links for my portfolio](https://github.com/Code-stack-design/Portfolio.git)
+[Here is my github account repo links netflix clone which i created as a part of project](https://github.com/Code-stack-design/Netflix-Clone.git)
 
 
 
